@@ -1,4 +1,4 @@
-# 🎲 Probability Basics Assignment
+# 🎲 Probability Basics Assignment 
 
 ## 📌 Overview
 This assignment covers fundamental probability concepts
